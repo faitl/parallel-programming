@@ -1,0 +1,29 @@
+.vs/
+*.vcxproj.user
+*.VC.db
+*.suo
+
+
+Debug/
+Release/
+build/
+
+# Executables
+*.exe
+*.out
+
+*.obj
+*.o
+*.pdb
+*.ilk
+*.log
+
+__pycache__/
+*.pyc
+
+result.txt
+results.csv
+plot.png
+
+# matrix_a.txt
+# matrix_b.txt
